@@ -1,0 +1,5 @@
+[smtp]
+    smtp_server = smtp.gmail.com
+    smtp_port = 587
+    from_email =
+    from_email_password =
